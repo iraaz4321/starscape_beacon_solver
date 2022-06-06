@@ -25,6 +25,7 @@ Will be added once cleaned up
 **Our other projects**
 
 Beacon loot data: https://docs.google.com/spreadsheets/d/1jv37VjkdWJu8qG5-6R-xZqWqt5lY4VO8DONKNqUFSpA/edit?usp=sharing 
+
 scrap drop chances: https://docs.google.com/spreadsheets/d/1XbJ6ypmnZ1Ox0jw1RLzwfQhKfhufdN8iKMpPzGFXGqs/edit?usp=sharing
 
 If you wish to help or have any questions dm iraas#0559 (765119856403021864)
