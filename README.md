@@ -1,6 +1,6 @@
 # starscape_beacon_solver
 
-Beacon solver is free tool for solving beacons in starscape all of the code is provided under MIT license. Current code is a prototype version of the solver it will be changed to more clearly written version once I have cleaned it up.
+Beacon solver is free tool for solving beacons in starscape all of the code is provided under MIT license.
 
 **API**
 
