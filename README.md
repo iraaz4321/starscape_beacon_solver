@@ -11,6 +11,9 @@ api end point takes arguments as query string. Arguments are found below
 main (required) Letter of the beacon target system. Example main=A
 rest (required) Letters of the rest of the beacon colors separated by comma. Example rest=A,M
 connected (optional) Amount of systems which are connected to target. Example connected=4
+
+Example query
+http://iraaz.eu.pythonanywhere.com/api/solve?main=A&rest=B,B,G,G
 ```
 If you use our API in non private manner we kindly ask you to credit us by providing link to this github page. 
 
