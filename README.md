@@ -4,11 +4,19 @@ Beacon solver is free tool for solving beacons in starscape all of the code is p
 
 **API**
 
-We provide an api which provides two end points one for your own parsed beacon map and one which parses beacon map image for you. If you use our API in non private manner we kindly ask you to credit us by providing link to this github page. (Currently api isn't yet up)
+Api end point can be found at: http://iraaz.eu.pythonanywhere.com/api/solve?
+Colors and their letters can be found here https://i.imgur.com/0XMGC8Bh.jpg
+api end point takes arguments as query string. Arguments are found below
+```
+main (required) Letter of the beacon target system. Example main=A
+rest (required) Letters of the rest of the beacon colors separated by comma. Example rest=A,M
+connected (optional) Amount of systems which are connected to target. Example connected=4
+```
+If you use our API in non private manner we kindly ask you to credit us by providing link to this github page. 
 
 **API ratelimiting**
 
-WIP
+Currently API is limited to 5 requests/minute (For now. If you need more I recommed hosting the solver yourself)
 
 **discord bot**
 
