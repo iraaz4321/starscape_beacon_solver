@@ -27,7 +27,7 @@ We provide hosted discord bot which can solve beacons for you. You can invite it
 
 **Website**
 
-WIP
+WIP for the most part currently only 3d rendering of the map. http://iraaz.eu.pythonanywhere.com/
 
 **Google sheets version**
 
