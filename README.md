@@ -2,6 +2,8 @@
 
 Beacon solver is free tool for solving beacons in starscape all of the code is provided under MIT license.
 
+Curently changing host due to problems with performance. It will take a few days. Till it's done most hosted things might be down.
+
 **API**
 
 Api end point can be found at: http://iraaz.eu.pythonanywhere.com/api/solve?
