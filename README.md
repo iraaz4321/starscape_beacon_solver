@@ -24,7 +24,7 @@ Currently API is limited to 5 requests/minute (For now. If you need more I recom
 
 **discord bot**
 
-We provide hosted discord bot which can solve beacons for you. You can invite it [here](https://discord.com/api/oauth2/authorize?client_id=814130510544502835&permissions=277025704000&scope=bot%20applications.commands)
+We provide hosted discord bot which can solve beacons for you. You can invite it ~[here](https://discord.com/api/oauth2/authorize?client_id=814130510544502835&permissions=277025704000&scope=bot%20applications.commands)~. No longer hosted.
 
 **Website**
 
@@ -34,7 +34,7 @@ WIP for the most part currently only 3d rendering of the map. http://iraaz.eu.py
 
 Will be added once cleaned up
 
-**Our other projects**
+**other starscape related stuff**
 
 Beacon loot data: https://docs.google.com/spreadsheets/d/1jv37VjkdWJu8qG5-6R-xZqWqt5lY4VO8DONKNqUFSpA/edit?usp=sharing 
 
